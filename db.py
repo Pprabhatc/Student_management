@@ -6,4 +6,5 @@ def connect_db():
         user="root",
         password="Prabhat123@i",
         database="student_management"
+        //initial commit
     )
